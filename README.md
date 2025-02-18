@@ -16,6 +16,21 @@ This website serves as a hub for students across Bangladesh who are passionate a
   
  **Deployment**: Netlify
 
+ **File Structure**: 
+
+ 
+ ├── index.html
+ 
+├── css/
+│   └── style.css
+
+├── js/
+│   └── main.js
+
+├── images/
+
+└── assets/ 
+
 ## 📌 Features
 
 - **Home Page** – Overview of MLSA Bangladesh and its impact.
