@@ -11,7 +11,6 @@ This website serves as a hub for students across Bangladesh who are passionate a
 ## 🛠 Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript
-- **Framework**: React.js
 - **Deployment**: Netlify
 
 ## 📌 Features
