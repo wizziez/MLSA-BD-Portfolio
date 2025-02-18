@@ -9,9 +9,12 @@ This website serves as a hub for students across Bangladesh who are passionate a
 🌟 **Live Demo**: [mlsabangladesh.netlify.app](https://mlsabangladesh.netlify.app/)
 
 ## 🛠 Tech Stack
-
-- **Frontend**: HTML, CSS, JavaScript
-- **Deployment**: Netlify
+**Frontend**: 
+- HTML5
+- CSS3
+- Vanilla JavaScript
+  
+ **Deployment**: Netlify
 
 ## 📌 Features
 
